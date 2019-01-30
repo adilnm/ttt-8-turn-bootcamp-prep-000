@@ -4,5 +4,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 turn
-input=gets.strip
 valid_move?(board, )
