@@ -32,5 +32,6 @@ end
   answer=valid_move?(board,index)
 end
   move(board,index,token="X")
+  display_board(board)
 end 
   
