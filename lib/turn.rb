@@ -28,6 +28,7 @@ end
   input=gets.strip
   index=input_to_index(input)
   answer=valid_move?(board,index)
+  while(answer==false)
   
 end 
   
