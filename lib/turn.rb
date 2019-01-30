@@ -31,6 +31,6 @@ end
   index=input_to_index(input)
   answer=valid_move?(board,index)
 end
-  
+  move(board,index,token="X")
 end 
   
